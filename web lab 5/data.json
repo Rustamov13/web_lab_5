@@ -1,0 +1,30 @@
+{
+  "contact": [
+    "Phone: +994-50-123-45-56",
+    "Email: Richard.Qarabala@gmail.com",
+    "Location: Kurdamir",
+    "Website: Qarabala.com"
+  ],
+  "education": [
+    "I hold a Master of Computer Science degree from Wardiere University, completed between 2029 and 2030. Prior to that, I earned my Bachelor of Computer Engineering from the same institution, graduating in 2029 with a GPA of 3.8 out of 4.0. These academic experiences gave me a solid foundation in software architecture, algorithms, and systems design."
+  ],
+  "skills": [
+    "I specialize in full-stack web development, using modern technologies such as JavaScript, TypeScript, Node.js, React, Next.js, and Vue on the frontend, along with Python, Django, and Flask on the backend. My experience also includes working with RESTful APIs, GraphQL, Git, CI/CD pipelines, Docker containers, and both SQL and NoSQL databases."
+  ],
+  "languages": [
+    "I am fluent in English and French, have a basic understanding of German, and hold intermediate proficiency in Spanish."
+  ],
+  "profile": [
+    "I’m a passionate Software Developer with a strong background in building scalable web applications and crafting efficient backend systems. I thrive in fast-paced environments and love turning complex problems into elegant, maintainable code."
+  ],
+  "workExperience": [
+    "Currently, I work at CodeCraft Labs as a Full-Stack Developer...",
+    "Before this, I was a Backend Developer at DevBridge Studio from 2025 to 2029...",
+    "I began my professional journey at TechNest Solutions as a Junior Web Developer in 2024..."
+  ],
+  "references": [
+    "Estelle Darcy – CTO, Wardiere Inc.",
+    "Phone: +994-50-123-45-56",
+    "Email: Richard.Qarabala@gmail.com"
+  ]
+}
